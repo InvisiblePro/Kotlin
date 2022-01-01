@@ -1,7 +1,7 @@
 # KOTLIN    [![](https://img.shields.io/badge/Language-Kotlin-CAA3FF?logo=kotlin)](https://kotlinlang.org/)
 
 
-### ***This repo includes some Java basics programs.***
+### ***This repo includes some Kotlin basics programs.***
 
 #### 1. _Even Odd_
 
